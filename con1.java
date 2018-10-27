@@ -1,4 +1,3 @@
-//WAP for default constructor
 
 class conect 
 {
