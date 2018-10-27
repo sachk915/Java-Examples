@@ -1,17 +1,16 @@
-//WAP to create default constructor in inheritance
 
 class First 
 {
 	First()
 	{
-		System.out.println("First class Constructor");
+		System.out.println("First class Constructor 1");
 	}
 }
 class second extends First
 {
 	second()
 	{
-		System.out.println("Second class Constructor");
+		System.out.println("Second class Constructor 2");
 	}
 }
 public class constructor
