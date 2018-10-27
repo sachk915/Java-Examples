@@ -1,4 +1,4 @@
-//WAP to perform the operations on String(inmutable)
+//Write a program to perform the operations on String(inmutable)
 class  strings
 {
 	public static void main(String[] args) 
