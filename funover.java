@@ -1,4 +1,4 @@
-//WAP for method overloading
+//Write a program for method overloading
 
 class  funover
 {
@@ -40,14 +40,14 @@ class  funover
 	public static void main(String s[])
 	{
 		funover fn=new funover();
-		fn.cal(1200,2,5);
-		fn.cal(1e2,2e3);
-		fn.cal(12,2.5f);
-		fn.cal(10,2);
-		fn.cal(2.5f,8);
-		fn.abc(5.6f);
-		fn.abc(100);
-		fn.abc(3e2);
-		fn.abc(10.6);
+		fn.cal(120,2,51);
+		fn.cal(152,2e3);
+		fn.cal(10,2.5f);
+		fn.cal(18,2);
+		fn.cal(2.7f,8);
+		fn.abc(5.2f);
+		fn.abc(50);
+		fn.abc(3e3);
+		fn.abc(10.7);
 	}
 }
