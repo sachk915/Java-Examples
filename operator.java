@@ -1,4 +1,4 @@
-/* WAP to perform the following operations by using
+/* Write a program to perform the following operations by using
 	OPERATOR	*/
 
 class  operator
