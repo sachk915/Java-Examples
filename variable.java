@@ -1,4 +1,4 @@
-/* WAP to declare all premitives ,datatypes ,
+/* Write a program to declare all premitives ,datatypes ,
 	variables & public them */
 
 class variable 
