@@ -1,4 +1,4 @@
-// WAP for multilevel inheritance
+// Write a program for multilevel inheritance
  
 class  studinfo
 {
