@@ -1,6 +1,6 @@
 // WAP to pass object as an argument
 
-class cbr 
+class objarg 
 {
 	int a,b;
 	void read(int x,int y)
