@@ -1,4 +1,3 @@
-//WAP for parameterized constructor
 
 class con2
 {
