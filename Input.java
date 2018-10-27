@@ -1,4 +1,4 @@
-/* WAP to read the inputs from command line */
+/* Write a program to read the inputs from command line */
 
 class  Input
 {
