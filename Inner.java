@@ -1,7 +1,7 @@
-/* WAP to create inner class with members,access
+/* Write a program to create inner class with members,access
 	those members outside of the outer class */
 
-class university 
+class atall 
 {
 	student ob=new student();
 	void getdetails(int id,String na)
@@ -32,11 +32,11 @@ class university
 	private int ucode;
 	String name;
 }
-class Inner
+class inner
 {
 	public static void main(String s[])
 	{
-		university obj=new university();
+		class atall obj=new class atall();
 		obj.getdetails(Integer.parseInt(s[0]),s[1]);
 		obj.print();
 		obj.ob.get(Integer.parseInt(s[2]),s[3]);
