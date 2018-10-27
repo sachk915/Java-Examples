@@ -1,4 +1,4 @@
-//WAP to perform operations on String buffer =(Mutable)
+//Write a program to perform operations on String buffer =(Mutable)
 
 class stringbuffer 
 {
