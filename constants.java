@@ -1,20 +1,19 @@
-//WAP to implement final for class members
 
 class final1
 {
 	final int p=7;
 	final void show()
 	{
-		System.out.println("First show method");
+		System.out.println("First show method 1");
 	}
 }
 final class final2 extends final1
 {
 	void show(int x)
 	{
-		System.out.println("Second show method "+x);
+		System.out.println("Second show method 2"+x);
 		x=p+10;
-		System.out.println("Second show method "+(++x));
+		System.out.println("Second show method 2 "+(++x));
 	}
 }
 class constants
