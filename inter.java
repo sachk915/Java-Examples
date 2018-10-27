@@ -1,4 +1,4 @@
-//WAP for interface
+//Write a program for interface
 
 interface PQ
 {
