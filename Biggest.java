@@ -1,5 +1,4 @@
-/* WAP to check the biggest no. from given two no.s
-	COMMAND LINE */
+/* Write a program to check the biggest no. from given two no.s	COMMAND LINE */
 
 class Biggest 
 {
