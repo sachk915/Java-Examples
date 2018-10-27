@@ -1,4 +1,4 @@
-/*	WAP a program for switch case 
+/*	Write a program for switch case 
 	using COMMAND LINE	 */
 
 class  Switch
