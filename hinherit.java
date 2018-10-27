@@ -1,4 +1,4 @@
-//WAP for hiearchial inheritance
+//Write a Program for hiearchial inheritance
 
 class info
 {
